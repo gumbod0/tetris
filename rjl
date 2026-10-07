@@ -3,3 +3,5 @@ a=18
 о=19
 d=85
 ffff=77
+g=a-d
+print('tetris')
